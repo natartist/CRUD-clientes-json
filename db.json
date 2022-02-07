@@ -1,0 +1,53 @@
+{
+  "clientes": [
+    {
+      "nombre": "kiki",
+      "email": "natalia@correo.com",
+      "empresa": "Kibernum",
+      "telefono": {},
+      "id": 3
+    },
+    {
+      "nombre": "Pepe",
+      "email": "pepe@correo.com",
+      "empresa": "kukis",
+      "telefono": {},
+      "id": 4
+    },
+    {
+      "nombre": "loli",
+      "email": "lula@correo.com",
+      "telefono": {},
+      "empresa": "kibernum",
+      "id": 5
+    },
+    {
+      "nombre": "cuco",
+      "email": "cuco@gmail.com",
+      "telefono": "2222222",
+      "empresa": "Cuquito",
+      "id": 6
+    },
+    {
+      "nombre": "Pepino",
+      "email": "pepino@gmail.com",
+      "telefono": "323233333",
+      "empresa": "Tupotito",
+      "id": 7
+    },
+    {
+      "nombre": "natalia",
+      "email": "lula@correo.com",
+      "telefono": {},
+      "empresa": "kukik",
+      "id": 8
+    },
+    {
+      "nombre": "oli",
+      "email": "oli@correo.cl",
+      "telefono": {},
+      "empresa": "France",
+      "id": 9
+    }
+  ]
+}
